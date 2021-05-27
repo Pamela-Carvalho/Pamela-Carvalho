@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-Carvalho&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamela-Carvalho&hide=javascript&theme=radical,html)](https://github.com/Pamela-Carvalho/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.Pamela-Carvalho.vercel.app/api/top-langs/?username=Pamela-Carvalho&layout=compact&theme=radical-palenight" />
