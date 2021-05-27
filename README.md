@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamela-Carvalho&hide=javascript&theme=radical,html)](https://github.com/Pamela-Carvalho/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.Pamela-Carvalho.vercel.app/api/top-langs/?username=Pamela-Carvalho&layout=compact&theme=radical-palenight" />
+<img align="center" src="https://github-readme-stats.Pamela-Carvalho.vercel.app/api/top-langs/?username=Pamela-Carvalho&layout=compact&theme=radical" />
