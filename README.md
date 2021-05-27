@@ -22,7 +22,7 @@
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "alt =" c "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="padding: 25px; text-decoration: none;" href ="https://www.chartjs.org "target =" _blank "> 
-        <img src ="https://www.chartjs.org/media/logo-title.svg "alt =" chartjs "width =" 40 "height =" 40 "/> 
+        <img src ="https://www.chartjs.org/img/chartjs-logo.svg " alt =" chartjs "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="padding: 25px; text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
