@@ -8,7 +8,7 @@
 <hr>
 <p align = "center" padding="25">
     <a style="text-decoration: none;" href="https://codepen.io/pamelacarvalho" target="blank"> 
-        <img  padding="25px" align = "center" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"alt =" pamelacarvalho "height =" 40 "width =" 40 "/> 
+        <img  padding="25px" align = "center" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"alt =" pamelacarvalho "height =" 40 "width =" 40 " style="margin: 25px;" margin="25"/> 
     </a>
     <a style="text-decoration: none;" href = "https://linkedin.com/in/pâmelacarvalho" target = "em branco"> 
         <img  padding="25" align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt =" pâmelacarvalho "height =" 40 "width =" 40 "/> 
