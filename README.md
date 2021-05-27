@@ -1,17 +1,17 @@
 <h1 align = "center">✨ Bem vindo(a) ao meu GitHub ✨</h1>
-<p style="display: flex;">
+<div display="flex">
     <p style="padding: 15px; ">👋🏼 Olá!! Eu sou a <strong>Pâmela</strong>, tenho 17 anos e sou estudante de Informática. Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
     <img style="padding: 25px;" src="https://github.com/Pamela-Carvalho/Pamela-Carvalho/blob/main/avatar.png?raw=true" alt="Avatar" style="width: 350px; height:350px;">
-</p>
+</div>
 
 <h3 align = "left">📲 Conecte-se a mim </h3>
 <hr>
-<p align = "center" style="padding: 25px;">
+<p align = "center" padding="25">
     <a style="text-decoration: none;" href="https://codepen.io/pamelacarvalho" target="blank"> 
-        <img style="padding: 25px;" align = "center" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"alt =" pamelacarvalho "height =" 40 "width =" 40 "/> 
+        <img  padding="25px" align = "center" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"alt =" pamelacarvalho "height =" 40 "width =" 40 "/> 
     </a>
     <a style="text-decoration: none;" href = "https://linkedin.com/in/pâmelacarvalho" target = "em branco"> 
-        <img style="padding: 25px;" align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt =" pâmelacarvalho "height =" 40 "width =" 40 "/> 
+        <img  padding="25" align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt =" pâmelacarvalho "height =" 40 "width =" 40 "/> 
     </a>
 </p>
 
