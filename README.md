@@ -1,8 +1,8 @@
 <h1 align = "center">✨ Bem vindo(a) ao meu GitHub ✨</h1>
-<div style="display: flex;">
+<section style="display: flex;">
     <p style="padding: 15px; ">👋🏼 Olá!! Eu sou a <strong>Pâmela</strong>, tenho 17 anos e sou estudante de Informática. Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
-    <img src="https://github.com/Pamela-Carvalho/Pamela-Carvalho/blob/main/avatar.png?raw=true" alt="Avatar" style="width: 350px; height:350px;">
-</div>
+    <img style="padding: 25px;" src="https://github.com/Pamela-Carvalho/Pamela-Carvalho/blob/main/avatar.png?raw=true" alt="Avatar" style="width: 350px; height:350px;">
+</section>
 
 <h3 align = "left">📲 Conecte-se a mim </h3>
 <hr>
