@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Pamela-Carvalho">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Pamela-Carvalho&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pamela-Carvalho&show_icons=true&theme=radical" /></a>
 
 <a href="https://github.com/Pamela-Carvalho">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pamela-Carvalho&layout=compact&theme=radical" />
