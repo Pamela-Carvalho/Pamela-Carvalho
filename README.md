@@ -1,6 +1,6 @@
 <h1 align = "center">✨ Bem vindo(a) ao meu GitHub ✨</h1>
 <a href="https://storyset.com/people"><img align="right" style="width: 30%; margin: 15px;" src="avatar.svg" alt="Avatar"></a>
-<p>👋🏼 Olá!! Eu sou a <strong>Pâmela</strong>, tenho 19 anos e sou estudante de Ciência e Tecnologia. Meu primeiro contato com a programação foi no curso técnico em Informática, o qual despertou em mim o interesse pela STEM. Já trabalhei em projetos com algumas linguagens de programação, tanto no front-end quanto no back-end. Meu objetivo é ingressar no mercado de trabalho como desenvolvedora futuramente.</p>
+<p>👋🏼 Olá!! Eu sou a <strong>Pâmela</strong>, tenho 20 anos e sou estudante de Ciência e Tecnologia. Meu primeiro contato com a programação foi no curso técnico em Informática, o qual despertou em mim o interesse pela STEM. Já trabalhei em projetos com algumas linguagens de programação, tanto no front-end quanto no back-end. Meu objetivo é ingressar no mercado de trabalho como desenvolvedora futuramente.</p>
 
 <h3 align = "left">📲 Conecte-se a mim </h3>
 <hr>
