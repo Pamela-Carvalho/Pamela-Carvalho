@@ -16,9 +16,9 @@
 <h3 align = "left">👩🏻‍💻 Meu GitHub </h3>
 <hr>
 <p align = "center">
-    <a href="https://github.com/Pamela-Carvalho">
+<!--     <a href="https://github.com/Pamela-Carvalho">
         <img align="center" alt="Pamela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pamela-Carvalho&show_icons=true&theme=radical" />
-    </a>
+    </a> -->
     <a href="https://github.com/Pamela-Carvalho">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pamela-Carvalho&theme=radical" />
     </a>
